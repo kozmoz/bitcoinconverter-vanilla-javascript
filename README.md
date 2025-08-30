@@ -1,9 +1,3 @@
-## Me
-Update this readme. The current project in in vanilla javascript, not Angular.
-
-## AI Assistant
-
-``` markdown
 # Bitcoin Converter (Vanilla JavaScript)
 
 A lightweight, framework-free BTC converter that fetches live prices and updates the UI with reactive primitives in plain JavaScript.
@@ -62,5 +56,4 @@ Then open the printed local URL (for example http://localhost:3000 or http://127
 
 This README.md is based on a template from:
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-```
 
