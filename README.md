@@ -2,6 +2,9 @@
 
 A lightweight, framework-free BTC converter that fetches live prices and updates the UI with reactive primitives in plain JavaScript.
 
+Note on reactivity: This project experiments with simple reactive primitives inspired by the TC39 Signals proposal (standardization 
+work-in-progress). See the proposal for details: https://github.com/tc39/proposal-signals
+
 The following tools are used:
 
 * Vanilla JavaScript (ES Modules) – no framework, no build step
